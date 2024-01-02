@@ -1,4 +1,4 @@
-- my twitter --https://twitter.com/schadenkuro--
+- my twitter **https://twitter.com/schadenkuro**
 - cya
 
 <!---
